@@ -1,6 +1,8 @@
 # Social Media
 
-## Backend Development
+## Backend Development (REST API)
+
+### Technology Stack
 
 - Node 
 - Express
