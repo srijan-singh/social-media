@@ -15,10 +15,8 @@
 #### 1. users
 
 
-        API Requests
+    API Requests
 
-        - register user
-        - login
         - update user
         - delete user
         - get user
@@ -27,3 +25,10 @@
 
 
 #### 2. auth
+
+    API Requests
+
+        - register user
+        - login
+
+
