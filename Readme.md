@@ -1,4 +1,4 @@
-# Social Media
+# Social Media Application
 
 ## Backend Development (REST API)
 
