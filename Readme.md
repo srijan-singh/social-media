@@ -16,7 +16,6 @@
 
 #### 1. users
 
-
     API Requests
 
         - update user
@@ -33,4 +32,14 @@
         - register user
         - login
 
+#### 3. posts
+
+    API Requests
+
+        - create post
+        - update post
+        - delete post
+        - like/dislike ppst
+        - get post details
+        - get post timeline
 
