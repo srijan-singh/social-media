@@ -10,6 +10,7 @@
 ### Models
 
 - User
+- Post
 
 ### Routes
 
