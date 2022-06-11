@@ -40,7 +40,7 @@
         - create post
         - update post
         - delete post
-        - like/dislike ppst
+        - like/dislike post
         - get post details
         - get post timeline
 
